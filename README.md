@@ -25,6 +25,8 @@ O processo de criação envolveu inicialmente a geração de textos com o ChatGP
 
 O resultado é um vídeo de comunicação digital altamente eficaz, que demonstra o potencial da AI na criação de conteúdo inovador e envolvente. A combinação dessas tecnologias resultou em um produto final que é ao mesmo tempo informativo e esteticamente agradável.
 
+[LINK PARA O VÍDEO AQUI](https://drive.google.com/file/d/1EmImzpVDFBn4KSvW6TTt0jF3i6qHmfAA)
+
 ## 💭 Reflexão (Opcional)
 
 Criar algo "natty" (elegante e natural) com IA apresentou desafios únicos, especialmente em termos de garantir que o resultado final fosse coeso e transmitisse a mensagem desejada de forma clara e atraente. Este projeto mostra que, com as ferramentas certas, a IA pode ser uma aliada poderosa na inovação e na eficiência da comunicação digital.
